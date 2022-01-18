@@ -1,0 +1,323 @@
+{
+    "name": {
+        "required": true
+    },
+    "user_id": {
+        "required": false
+    },
+    "user_email": {
+        "required": false
+    },
+    "user_login": {
+        "required": false
+    },
+    "company_id": {
+        "required": false
+    },
+    "referred": {
+        "required": false
+    },
+    "description": {
+        "required": false
+    },
+    "active": {
+        "required": false
+    },
+    "type": {
+        "required": true
+    },
+    "priority": {
+        "required": false
+    },
+    "team_id": {
+        "required": false
+    },
+    "stage_id": {
+        "required": false
+    },
+    "kanban_state": {
+        "required": false
+    },
+    "activity_date_deadline_my": {
+        "required": false
+    },
+    "tag_ids": {
+        "required": false
+    },
+    "color": {
+        "required": false
+    },
+    "expected_revenue": {
+        "required": false
+    },
+    "prorated_revenue": {
+        "required": false
+    },
+    "company_currency": {
+        "required": false
+    },
+    "date_closed": {
+        "required": false
+    },
+    "date_action_last": {
+        "required": false
+    },
+    "date_open": {
+        "required": false
+    },
+    "day_open": {
+        "required": false
+    },
+    "day_close": {
+        "required": false
+    },
+    "date_last_stage_update": {
+        "required": false
+    },
+    "date_conversion": {
+        "required": false
+    },
+    "date_deadline": {
+        "required": false
+    },
+    "partner_id": {
+        "required": false
+    },
+    "partner_is_blacklisted": {
+        "required": false
+    },
+    "contact_name": {
+        "required": false
+    },
+    "partner_name": {
+        "required": false
+    },
+    "function": {
+        "required": false
+    },
+    "title": {
+        "required": false
+    },
+    "email_from": {
+        "required": false
+    },
+    "phone": {
+        "required": false
+    },
+    "mobile": {
+        "required": false
+    },
+    "phone_mobile_search": {
+        "required": false
+    },
+    "phone_state": {
+        "required": false
+    },
+    "email_state": {
+        "required": false
+    },
+    "website": {
+        "required": false
+    },
+    "lang_id": {
+        "required": false
+    },
+    "street": {
+        "required": false
+    },
+    "street2": {
+        "required": false
+    },
+    "zip": {
+        "required": false
+    },
+    "city": {
+        "required": false
+    },
+    "state_id": {
+        "required": false
+    },
+    "country_id": {
+        "required": false
+    },
+    "probability": {
+        "required": false
+    },
+    "automated_probability": {
+        "required": false
+    },
+    "is_automated_probability": {
+        "required": false
+    },
+    "meeting_count": {
+        "required": false
+    },
+    "lost_reason": {
+        "required": false
+    },
+    "ribbon_message": {
+        "required": false
+    },
+    "won_status": {
+        "required": false
+    },
+    "days_to_convert": {
+        "required": false
+    },
+    "days_exceeding_closing": {
+        "required": false
+    },
+    "reveal_id": {
+        "required": false
+    },
+    "lead_mining_request_id": {
+        "required": false
+    },
+    "iap_enrich_done": {
+        "required": false
+    },
+    "show_enrich_button": {
+        "required": false
+    },
+    "sale_amount_total": {
+        "required": false
+    },
+    "quotation_count": {
+        "required": false
+    },
+    "sale_order_count": {
+        "required": false
+    },
+    "order_ids": {
+        "required": false
+    },
+    "campaign_id": {
+        "required": false
+    },
+    "source_id": {
+        "required": false
+    },
+    "medium_id": {
+        "required": false
+    },
+    "activity_ids": {
+        "required": false
+    },
+    "activity_state": {
+        "required": false
+    },
+    "activity_date_deadline": {
+        "required": false
+    },
+    "my_activity_date_deadline": {
+        "required": false
+    },
+    "activity_exception_decoration": {
+        "required": false
+    },
+    "activity_exception_icon": {
+        "required": false
+    },
+    "activity_user_id": {
+        "required": false
+    },
+    "activity_type_id": {
+        "required": false
+    },
+    "activity_type_icon": {
+        "required": false
+    },
+    "activity_summary": {
+        "required": false
+    },
+    "email_normalized": {
+        "required": false
+    },
+    "is_blacklisted": {
+        "required": false
+    },
+    "message_bounce": {
+        "required": false
+    },
+    "email_cc": {
+        "required": false
+    },
+    "message_is_follower": {
+        "required": false
+    },
+    "message_follower_ids": {
+        "required": false
+    },
+    "message_partner_ids": {
+        "required": false
+    },
+    "message_channel_ids": {
+        "required": false
+    },
+    "message_ids": {
+        "required": false
+    },
+    "message_unread": {
+        "required": false
+    },
+    "message_unread_counter": {
+        "required": false
+    },
+    "message_needaction": {
+        "required": false
+    },
+    "message_needaction_counter": {
+        "required": false
+    },
+    "message_has_error": {
+        "required": false
+    },
+    "message_has_error_counter": {
+        "required": false
+    },
+    "message_attachment_count": {
+        "required": false
+    },
+    "message_main_attachment_id": {
+        "required": false
+    },
+    "website_message_ids": {
+        "required": false
+    },
+    "message_has_sms_error": {
+        "required": false
+    },
+    "phone_sanitized": {
+        "required": false
+    },
+    "phone_sanitized_blacklisted": {
+        "required": false
+    },
+    "phone_blacklisted": {
+        "required": false
+    },
+    "mobile_blacklisted": {
+        "required": false
+    },
+    "id": {
+        "required": false
+    },
+    "display_name": {
+        "required": false
+    },
+    "create_uid": {
+        "required": false
+    },
+    "create_date": {
+        "required": false
+    },
+    "write_uid": {
+        "required": false
+    },
+    "write_date": {
+        "required": false
+    },
+    "__last_update": {
+        "required": false
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "api-odoo-v3",
+  "version": "1.0.0",
+  "description": "Api de conexion odoo con mautic",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon test.js",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Handres De La Torre",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.1.1",
+    "csv-reader": "^1.0.8",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "image-to-base64": "^2.2.0",
+    "node-mautic": "^1.2.6",
+    "odoo-await": "^2.2.2",
+    "raw-body": "^2.4.1"
+  }
+}

@@ -1,0 +1,467 @@
+{
+    "name": {
+        "required": false
+    },
+    "display_name": {
+        "required": false
+    },
+    "date": {
+        "required": false
+    },
+    "title": {
+        "required": false
+    },
+    "parent_id": {
+        "required": false
+    },
+    "parent_name": {
+        "required": false
+    },
+    "child_ids": {
+        "required": false
+    },
+    "ref": {
+        "required": false
+    },
+    "lang": {
+        "required": false
+    },
+    "active_lang_count": {
+        "required": false
+    },
+    "tz": {
+        "required": false
+    },
+    "tz_offset": {
+        "required": false
+    },
+    "same_vat_partner_id": {
+        "required": false
+    },
+    "bank_ids": {
+        "required": false
+    },
+    "website": {
+        "required": false
+    },
+    "comment": {
+        "required": false
+    },
+    "category_id": {
+        "required": false
+    },
+    "credit_limit": {
+        "required": false
+    },
+    "active": {
+        "required": false
+    },
+    "employee": {
+        "required": false
+    },
+    "function": {
+        "required": false
+    },
+    "type": {
+        "required": false
+    },
+    "street": {
+        "required": false
+    },
+    "street2": {
+        "required": false
+    },
+    "zip": {
+        "required": false
+    },
+    "city": {
+        "required": false
+    },
+    "state_id": {
+        "required": false
+    },
+    "country_id": {
+        "required": false
+    },
+    "partner_latitude": {
+        "required": false
+    },
+    "partner_longitude": {
+        "required": false
+    },
+    "email_formatted": {
+        "required": false
+    },
+    "mobile": {
+        "required": false
+    },
+    "is_company": {
+        "required": false
+    },
+    "industry_id": {
+        "required": false
+    },
+    "company_type": {
+        "required": false
+    },
+    "company_id": {
+        "required": false
+    },
+    "color": {
+        "required": false
+    },
+    "user_ids": {
+        "required": false
+    },
+    "partner_share": {
+        "required": false
+    },
+    "contact_address": {
+        "required": false
+    },
+    "commercial_partner_id": {
+        "required": false
+    },
+    "commercial_company_name": {
+        "required": false
+    },
+    "company_name": {
+        "required": false
+    },
+    "barcode": {
+        "required": false
+    },
+    "self": {
+        "required": false
+    },
+    "signup_token": {
+        "required": false
+    },
+    "signup_type": {
+        "required": false
+    },
+    "signup_expiration": {
+        "required": false
+    },
+    "signup_valid": {
+        "required": false
+    },
+    "signup_url": {
+        "required": false
+    },
+    "activity_ids": {
+        "required": false
+    },
+    "activity_state": {
+        "required": false
+    },
+    "activity_user_id": {
+        "required": false
+    },
+    "activity_type_id": {
+        "required": false
+    },
+    "activity_type_icon": {
+        "required": false
+    },
+    "activity_date_deadline": {
+        "required": false
+    },
+    "my_activity_date_deadline": {
+        "required": false
+    },
+    "activity_summary": {
+        "required": false
+    },
+    "activity_exception_decoration": {
+        "required": false
+    },
+    "activity_exception_icon": {
+        "required": false
+    },
+    "message_is_follower": {
+        "required": false
+    },
+    "message_follower_ids": {
+        "required": false
+    },
+    "message_partner_ids": {
+        "required": false
+    },
+    "message_channel_ids": {
+        "required": false
+    },
+    "message_ids": {
+        "required": false
+    },
+    "message_unread": {
+        "required": false
+    },
+    "message_unread_counter": {
+        "required": false
+    },
+    "message_needaction": {
+        "required": false
+    },
+    "message_needaction_counter": {
+        "required": false
+    },
+    "message_has_error": {
+        "required": false
+    },
+    "message_has_error_counter": {
+        "required": false
+    },
+    "message_attachment_count": {
+        "required": false
+    },
+    "message_main_attachment_id": {
+        "required": false
+    },
+    "email_normalized": {
+        "required": false
+    },
+    "is_blacklisted": {
+        "required": false
+    },
+    "message_bounce": {
+        "required": false
+    },
+    "im_status": {
+        "required": false
+    },
+    "email": {
+        "required": false
+    },
+    "phone": {
+        "required": false
+    },
+    "channel_ids": {
+        "required": false
+    },
+    "user_id": {
+        "required": false
+    },
+    "website_message_ids": {
+        "required": false
+    },
+    "credit": {
+        "required": false
+    },
+    "debit": {
+        "required": false
+    },
+    "debit_limit": {
+        "required": false
+    },
+    "total_invoiced": {
+        "required": false
+    },
+    "currency_id": {
+        "required": false
+    },
+    "journal_item_count": {
+        "required": false
+    },
+    "property_account_payable_id": {
+        "required": true
+    },
+    "property_account_receivable_id": {
+        "required": true
+    },
+    "property_account_position_id": {
+        "required": false
+    },
+    "property_payment_term_id": {
+        "required": false
+    },
+    "property_supplier_payment_term_id": {
+        "required": false
+    },
+    "ref_company_ids": {
+        "required": false
+    },
+    "has_unreconciled_entries": {
+        "required": false
+    },
+    "last_time_entries_checked": {
+        "required": false
+    },
+    "invoice_ids": {
+        "required": false
+    },
+    "contract_ids": {
+        "required": false
+    },
+    "bank_account_count": {
+        "required": false
+    },
+    "trust": {
+        "required": false
+    },
+    "invoice_warn": {
+        "required": false
+    },
+    "invoice_warn_msg": {
+        "required": false
+    },
+    "supplier_rank": {
+        "required": false
+    },
+    "customer_rank": {
+        "required": false
+    },
+    "country_enforce_cities": {
+        "required": false
+    },
+    "city_id": {
+        "required": false
+    },
+    "contact_address_complete": {
+        "required": false
+    },
+    "image_medium": {
+        "required": false
+    },
+    "phone_sanitized": {
+        "required": false
+    },
+    "phone_sanitized_blacklisted": {
+        "required": false
+    },
+    "phone_blacklisted": {
+        "required": false
+    },
+    "mobile_blacklisted": {
+        "required": false
+    },
+    "property_product_pricelist": {
+        "required": false
+    },
+    "ocn_token": {
+        "required": false
+    },
+    "partner_gid": {
+        "required": false
+    },
+    "additional_info": {
+        "required": false
+    },
+    "message_has_sms_error": {
+        "required": false
+    },
+    "online_partner_vendor_name": {
+        "required": false
+    },
+    "online_partner_bank_account": {
+        "required": false
+    },
+    "payment_token_ids": {
+        "required": false
+    },
+    "payment_token_count": {
+        "required": false
+    },
+    "online_partner_information": {
+        "required": false
+    },
+    "calendar_last_notif_ack": {
+        "required": false
+    },
+    "team_id": {
+        "required": false
+    },
+    "opportunity_ids": {
+        "required": false
+    },
+    "meeting_ids": {
+        "required": false
+    },
+    "opportunity_count": {
+        "required": false
+    },
+    "meeting_count": {
+        "required": false
+    },
+    "property_stock_customer": {
+        "required": false
+    },
+    "property_stock_supplier": {
+        "required": false
+    },
+    "picking_warn": {
+        "required": false
+    },
+    "picking_warn_msg": {
+        "required": false
+    },
+    "sale_order_count": {
+        "required": false
+    },
+    "sale_order_ids": {
+        "required": false
+    },
+    "sale_warn": {
+        "required": false
+    },
+    "sale_warn_msg": {
+        "required": false
+    },
+    "website_id": {
+        "required": false
+    },
+    "is_published": {
+        "required": false
+    },
+    "can_publish": {
+        "required": false
+    },
+    "website_url": {
+        "required": false
+    },
+    "website_published": {
+        "required": false
+    },
+    "visitor_ids": {
+        "required": false
+    },
+    "l10n_latam_identification_type_id": {
+        "required": false
+    },
+    "vat": {
+        "required": false
+    },
+    "image_1920": {
+        "required": false
+    },
+    "image_1024": {
+        "required": false
+    },
+    "image_512": {
+        "required": false
+    },
+    "image_256": {
+        "required": false
+    },
+    "image_128": {
+        "required": false
+    },
+    "id": {
+        "required": false
+    },
+    "create_uid": {
+        "required": false
+    },
+    "create_date": {
+        "required": false
+    },
+    "write_uid": {
+        "required": false
+    },
+    "write_date": {
+        "required": false
+    },
+    "__last_update": {
+        "required": false
+    }
+}
