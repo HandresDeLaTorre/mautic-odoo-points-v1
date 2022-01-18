@@ -59,3 +59,6 @@ asesora.forEach(element => {
 // PRODUODOOPORT=443
 // PRODUODOOUSER='gerencia@ropahermosamujer.com'
 // PRODUODOOPSW='def8ba9ec544cf6f39eb4f1abddb94ae38e2c3cf'
+
+// /etc/systemd/system/multi-user.target.wants/pm2-root.service → /etc/systemd/system/pm2-root.service.
+// env PATH=$PATH:/usr/bin /usr/lib/node_modules/pm2/bin/pm2 startup systemd -u root --hp /home/root
